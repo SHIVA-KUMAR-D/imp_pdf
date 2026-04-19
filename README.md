@@ -1,5 +1,9 @@
 https://chatgpt.com/s/t_69e4d58877bc8191be5cc78f8a310491
-hf_
-oIahUOyPmkCJpXIYfzCwDOGYrhkeZSHObY
+"hf_
+oIahUOyPmkCJpXIYfzCwDOGYrhkeZSHObY"
+
 hf_
 HrFxcVadWHHElXfrfPOzMiWFMhAoPGXbmJ
+
+"hf_
+rkVdcaIftxOcPYOsmptwcvPeveNPwCtLcR" write access
